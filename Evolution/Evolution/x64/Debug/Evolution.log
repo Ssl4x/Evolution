@@ -1,1 +1,7 @@
-﻿  Evolution.vcxproj -> U:\Pryadkin Maxim\Evolution\x64\Debug\Evolution.exe
+﻿  main.cpp
+U:\Pryadkin Maxim\Evolution_2.0 — копия\Evolution\main.cpp(19,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Pryadkin Maxim\Evolution_2.0 — копия\Evolution\main.cpp(19,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Object.cpp
+  Wall.cpp
+  Создание кода...
+  Evolution.vcxproj -> U:\Pryadkin Maxim\Evolution_2.0 — копия\x64\Debug\Evolution.exe
